@@ -1,5 +1,5 @@
 flagsmith
-minds db
+mindsdb
 html 5
 css 3.0
 BootStrap v5.0
